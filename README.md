@@ -1,4 +1,4 @@
-![Capture 66](https://github.com/gkausalya232/PCA-EXP-2-MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24/assets/133086820/2a16d2b8-2b31-45ad-a542-aeb4bfc6bb35)# PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
+
 # Name : Kausalya G
 # Register Number: 212221040076
 # EX. NO 2
