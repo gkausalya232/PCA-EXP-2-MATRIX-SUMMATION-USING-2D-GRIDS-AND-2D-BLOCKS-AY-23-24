@@ -1,4 +1,4 @@
-# PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
+![Capture 66](https://github.com/gkausalya232/PCA-EXP-2-MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24/assets/133086820/2a16d2b8-2b31-45ad-a542-aeb4bfc6bb35)# PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 # Name : Kausalya G
 # Register Number: 212221040076
 # EX. NO 2
@@ -269,7 +269,9 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
-SHOW YOUR OUTPUT HERE
+![Capture 66](https://github.com/gkausalya232/PCA-EXP-2-MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24/assets/133086820/d0d52dab-3a08-47cc-b7c9-2016d6edcb3d)
+
+
 
 ## RESULT:
 The host took _________ seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in ________ seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
