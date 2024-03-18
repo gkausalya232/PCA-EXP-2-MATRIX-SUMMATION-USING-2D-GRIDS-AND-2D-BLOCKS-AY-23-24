@@ -269,9 +269,10 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
-![Capture 66](https://github.com/gkausalya232/PCA-EXP-2-MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24/assets/133086820/d0d52dab-3a08-47cc-b7c9-2016d6edcb3d)
+![image](https://github.com/gkausalya232/PCA-EXP-2-MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24/assets/133086820/b33cbc95-8ad6-4ec7-9fa9-90021f99f315)
+
 
 
 
 ## RESULT:
-The host took _________ seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in ________ seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
+The host took 0.835959 seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in n 0.053757 seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
